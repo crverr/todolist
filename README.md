@@ -1,6 +1,21 @@
 # todolist
 
+
+
+## 目标功能界面
+
+![在这里插入图片描述](./demo.gif)
+
+## 界面模块
+
+![](./demo.png)
+
+
+
+
+
 ## Project setup
+
 ```
 npm install
 ```
